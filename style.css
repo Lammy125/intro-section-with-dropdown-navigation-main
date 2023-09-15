@@ -75,9 +75,9 @@ p {
     font-size: 15px;
     width: 100px;
     text-align: center;
+    border: 1px solid;
 }
 #learnMore:hover {
     background-color: hsl(0, 0%, 98%);
     color: hsl(0, 0%, 8%);
-    border: 1px solid;
 }
